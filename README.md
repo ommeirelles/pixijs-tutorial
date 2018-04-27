@@ -1,2 +1,3 @@
 # pixijs-tutorial
-This repository is an implementation of pixijs tutorial made by @kittykatattack
+This is an implementation of [@kittykatattack](https://github.com/kittykatattack/learningPixi#collision) tutorial for [PIXI.JS javascript creation engine](https://github.com/pixijs/pixi.js).
+        
