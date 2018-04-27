@@ -1,0 +1,11 @@
+{
+  "name": "pixijs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Otávio Moreira Meirelles",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

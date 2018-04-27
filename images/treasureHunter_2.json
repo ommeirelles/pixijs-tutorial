@@ -1,0 +1,36 @@
+{
+    "frames": [
+        {
+            "name": "dungeon",
+            "size": {"w": 516, "h": 516},
+            "start": {"top": 34, "left": 0}
+        },
+        {
+            "name": "explorer",
+            "size": {"w": 20, "h": 34},
+            "start": {"top": 0, "left": 0}
+        },
+        {
+            "name": "treasure",
+            "size": {"w": 33, "h": 34},
+            "start": {"top": 0, "left": 20}
+        },
+        {
+            "name": "blob",
+            "size": {"w": 32, "h": 34},
+            "start": {"top": 0, "left": 53}
+        },
+        {
+            "name": "door",
+            "size": {"w": 36, "h": 34},
+            "start": {"top": 0, "left": 85}
+        }
+    ],
+    "meta": {
+        "image": "/treasureHunter.png",
+        "size": {
+            "w": 516,
+            "h": 550
+        }
+    }
+}
